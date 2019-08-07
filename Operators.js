@@ -1,3 +1,4 @@
+console.log("Operators");
 // 1- Mathematically, if a == b and b == c, then a == c. Can you explain in your words why this is not true for the following snippet?
 
 //  0 == '0'; -> true
