@@ -8,6 +8,6 @@ console.log(value1); // The result will be 1
 let value2 = 8;
 value2 = value2 % 3;  
 console.log(value2); // The result will be 2
-let value3 = 9; 
+ let value3 = 9; 
 value3 = value3 % 3;  
 console.log(value3); // The result will be 0

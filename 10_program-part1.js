@@ -8,10 +8,6 @@ console.log(myArray);
 //10.3 Add console.log statements to the above program
 let inf1 = 10/0;
 let inf2 = 6/0;
-
-function comparInfinities(inf1,inf2){
-        if (inf2 = Number.MAX_VALUE , inf2 = Number.MAX_VALUE)
+        if (inf2 === inf2)
         console.log("inf1 and inf2 are infinity")
         else console.log("False")
-}
-comparInfinities()
