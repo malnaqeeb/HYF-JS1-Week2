@@ -22,7 +22,7 @@ function compareType(var1,var2) {
     if (typeof var1 == typeof var2) {
         console.log( "this variable have the same type");
      } else { 
-        console.log("The first variable assigned to %o and the second variable assigned to %o ",typeof var1 , typeof var2 );
+        console.log("The value of the first variable has a %o data type and the second value has %o data type ",typeof var1 , typeof var2 );
       } 
 }
 compareType(num,str1);

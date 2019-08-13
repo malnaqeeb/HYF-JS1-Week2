@@ -4,7 +4,7 @@
 const myString = "hello,this,is,a,difficult,to,read,sentence";
 console.log (myString.length);
 
-let newStr = myString.replace(/,/gi, " ");
+let newStr = myString.replace(/,/g, " ");
 console.log(newStr);
 
 // 2- Find a way to reverse this string so that it becomes readable.

@@ -10,4 +10,4 @@ let inf1 = 10/0;
 let inf2 = 6/0;
         if (inf2 === inf2)
         console.log("inf1 and inf2 are infinity")
-        else console.log("False")
+        else console.log("inf1 and inf2 are not infinity")
